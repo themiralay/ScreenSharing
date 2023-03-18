@@ -1,0 +1,55 @@
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.FakeScreen.resources
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.Form1.resources
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.Properties.Resources.resources
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.csproj.GenerateResource.Cache
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.Form_Info.resources
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.SplashScreen1.resources
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.XtraForm1.resources
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\bin\Debug\V2RA.exe.config
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\bin\Debug\V2RA.exe
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\bin\Debug\V2RA.pdb
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\obj\Debug\V2RA.exe.licenses
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\obj\Debug\V2RA.exe
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\obj\Debug\V2RA.pdb
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.LKeys.resources
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.LKeysForm.resources
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.OnTop.resources
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.FakeScreen2.resources
+C:\Users\vra\Documents\Visual Studio 2012\Projects\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.csprojResolveAssemblyReference.cache
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\bin\Debug\V2RA.exe.config
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\bin\Debug\V2RA.exe
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\bin\Debug\V2RA.pdb
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.DisplayInfo.resources
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.FakeScreen.resources
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.FakeScreen2.resources
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.Form1.resources
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.Form_Info.resources
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.LKeys.resources
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.LKeysForm.resources
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.OnTop.resources
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.Properties.Resources.resources
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.SplashScreen1.resources
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.XtraForm1.resources
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.csproj.GenerateResource.Cache
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\obj\Debug\V2RA.exe.licenses
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\obj\Debug\V2RA.exe
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\obj\Debug\V2RA.pdb
+D:\GOKHAN PROJELER\ScreenPaylaş\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.csprojResolveAssemblyReference.cache
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.csproj.AssemblyReference.cache
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.csproj.SuggestedBindingRedirects.cache
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.DisplayInfo.resources
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.FakeScreen.resources
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.FakeScreen2.resources
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.Form1.resources
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.Form_Info.resources
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.LKeys.resources
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.LKeysForm.resources
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.OnTop.resources
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.Properties.Resources.resources
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.SplashScreen1.resources
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.XtraForm1.resources
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenPaylaş.csproj.GenerateResource.cache
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\V2RA.exe.licenses
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\V2RA.exe
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\V2RA.pdb
+D:\_VO\___WINDOWS_DOTNET\_OLD\ScreenPaylaş\ScreenPaylaş\obj\Debug\ScreenSharing.exe.licenses
